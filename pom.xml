@@ -7,6 +7,7 @@
         <module>commons</module>
         <module>apps</module>
         <module>cloud-apps</module>
+        <module>module-apps</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -52,6 +53,9 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <goals>
+                    <goal>repackage</goal>
+                </goals>
             </plugin>
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>

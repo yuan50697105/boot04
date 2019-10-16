@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/app01/app01.iml" filepath="$PROJECT_DIR$/apps/app01/app01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/apps.iml" filepath="$PROJECT_DIR$/apps/apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/boot04.iml" filepath="$PROJECT_DIR$/.idea/boot04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-apps/cloud-apps.iml" filepath="$PROJECT_DIR$/cloud-apps/cloud-apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons-all/commons-all.iml" filepath="$PROJECT_DIR$/commons/commons-all/commons-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" filepath="$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons-utils/commons-utils-all/commons-utils-all.iml" filepath="$PROJECT_DIR$/commons/commons-utils/commons-utils-all/commons-utils-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-apps/module-apps.iml" filepath="$PROJECT_DIR$/module-apps/module-apps.iml" />
+    </modules>
+  </component>
+</project>

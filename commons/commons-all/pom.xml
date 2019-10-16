@@ -14,7 +14,7 @@
     <dependencies>
         <dependency>
             <groupId>com.example</groupId>
-            <artifactId>commons-utils</artifactId>
+            <artifactId>commons-utils-all</artifactId>
             <version>1.0.0</version>
         </dependency>
     </dependencies>
