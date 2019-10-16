@@ -11,5 +11,9 @@
 
     <artifactId>commons</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>commons-all</module>
+        <module>commons-utils</module>
+    </modules>
 
 </project>
