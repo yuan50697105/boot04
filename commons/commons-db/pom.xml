@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>commons</artifactId>
+        <groupId>com.example</groupId>
+        <version>1.0.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>commons-db</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>commons-fastmybatis</module>
+        <module>commons-tkmapper</module>
+        <module>commons-mybatis-plus</module>
+        <module>commons-mybatis-enhance</module>
+        <module>commons-jpa</module>
+    </modules>
+
+</project>

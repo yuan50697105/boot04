@@ -14,6 +14,7 @@
     <modules>
         <module>commons-all</module>
         <module>commons-utils</module>
+        <module>commons-db</module>
     </modules>
     <build>
         <plugins>
